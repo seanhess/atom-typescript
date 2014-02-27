@@ -1,5 +1,3 @@
-Copyright (c) 2014 GitHub Inc.
-
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
@@ -22,8 +20,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 --------------------------------------------------------------------
 
 This package was derived from a TextMate bundle located at
-https://github.com/textmate/javascript.tmbundle and distributed under the
-following license, located in `README.mdown`:
+https://github.com/stoffera/textmate-typescript.
 
 Permission to copy, use, modify, sell and distribute this
 software is granted. This software is provided "as is" without
