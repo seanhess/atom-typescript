@@ -1,4 +1,4 @@
-# JavaScript language support in Atom
+# TypeScript language support in Atom
 
 Adds syntax highlighting and snippets to TypeScript file in Atom.
 
